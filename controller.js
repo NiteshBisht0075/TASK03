@@ -7,7 +7,6 @@ module.exports = {
      * Function to add user
      * @param ctx(name, email)
      * Created By: Nitesh Bisht
-     * Created At: 12,Mar 2021
      */
     async addUser(ctx) {
         try {
